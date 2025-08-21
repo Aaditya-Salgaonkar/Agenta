@@ -1,9 +1,7 @@
 
 ## 🚀 Agenta — The AI-Powered SaaS MVP Builder
 
-**Hackathon Submission**: United Hacks V5 
 **Built by**: Aaditya Salgaonkar  
-**Duration**: 1.5 days | Solo Build  
 ---
 
 ## ❓ The Problem
@@ -142,7 +140,7 @@ Agenta can revolutionize how startups are built by:
 Full Stack Builder | Goa, India 🇮🇳  
 📫 aadityasalgaonkar@gmail.com  
 
-> “Built solo during United Hacks V5. Agenta is my vision of democratizing execution for future founders.”
+> “Agenta is my vision of democratizing execution for future founders.”
 
 ---
 
@@ -151,7 +149,6 @@ Full Stack Builder | Goa, India 🇮🇳
 
 Thanks to:
 
-- [United Hacks V5]
 - Supabase, OpenRouter, Google Gemini
 - Netlify, GitHub APIs
 - Mentors, judges & builders from the hackathon 💙
